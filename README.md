@@ -16,25 +16,13 @@
 
 ## 🚀 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohamed"
-        self.role = "AI Engineer"
-        self.passion = ["Machine Learning", "Deep Learning", "Computer Vision"]
-        self.current_focus = "Building real-world AI systems"
-        self.motto = "Always learning. Always building."
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = AIEngineer()
-me.say_hi()
-```
-
 🎯 **Mission**: Creating intelligent systems that combine cutting-edge AI models with clean, interactive solutions
 
 💡 **Currently**: Exploring the intersection of ML, CV, and practical engineering
+
+✨ **Focus**: Building real-world AI systems that make a difference
+
+🌱 **Motto**: Always learning. Always building.
 
 ---
 
@@ -95,26 +83,6 @@ me.say_hi()
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
