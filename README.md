@@ -96,7 +96,7 @@
 
 **"The best way to predict the future is to build it."**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mohamad-tareq/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/mohamad-tareq/](https://www.linkedin.com/in/mohamad-tareq/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mohamadtareq954@gmail.com)
 
 ---
