@@ -1,44 +1,160 @@
-<h1 align="center">Hi, I'm Eng Mohamed 👋</h1>
-<h3 align="center">AI Engineer | Machine Learning | Data Science</h3>
+<div align="center">
+
+# 👋 Hi, I'm Eng Mohamed
+
+### 🤖 AI Engineer | Machine Learning Enthusiast | Data Science Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+AI+Solutions;Machine+Learning+Engineer;Computer+Vision+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
 
 ---
 
-## 🧠 About Me
-I enjoy building real-world systems that combine intelligent AI models with clean, interactive solutions.  
-Always learning. Always building.
+## 🚀 About Me
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Mohamed"
+        self.role = "AI Engineer"
+        self.passion = ["Machine Learning", "Deep Learning", "Computer Vision"]
+        self.current_focus = "Building real-world AI systems"
+        self.motto = "Always learning. Always building."
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AIEngineer()
+me.say_hi()
+```
+
+🎯 **Mission**: Creating intelligent systems that combine cutting-edge AI models with clean, interactive solutions
+
+💡 **Currently**: Exploring the intersection of ML, CV, and practical engineering
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🤖 Artificial Intelligence
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![ML](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
-![DL](https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge)
-![CV](https://img.shields.io/badge/Computer%20Vision-000?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv)
+### 🤖 Artificial Intelligence & Machine Learning
 
+<div align="center">
 
-### ⚙️ Programming & Tools
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-000?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-000?style=for-the-badge)
+</div>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)
+### 💻 Programming & Development
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+</div>
+
+### 🗄️ Data & Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Mohamed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💼 Core Competencies
+
+<div align="center">
+
+| Domain | Skills |
+|--------|--------|
+| 🧠 **Machine Learning** | Supervised & Unsupervised Learning, Model Optimization, Feature Engineering |
+| 🖼️ **Computer Vision** | Object Detection, Image Classification, Image Processing |
+| 📊 **Data Science** | Data Analysis, Visualization, Statistical Modeling |
+| 💻 **Software Engineering** | OOP, Data Structures, Algorithms, Clean Code |
+| 🚀 **Deployment** | Model Deployment, API Development, Web Applications |
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+> Coming soon! Currently working on exciting AI projects...
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**"The best way to predict the future is to build it."**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mohamadtareq954@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+
+⭐️ From [Eng Mohamed](https://github.com/MoTareq000) with 💙
+
+</div>
